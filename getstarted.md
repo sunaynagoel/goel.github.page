@@ -27,7 +27,6 @@ Here is a 40-second video showing how to get started, with the specific steps be
 
 Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.
 
-</div>
 <style>
 
 .pretty-text {
