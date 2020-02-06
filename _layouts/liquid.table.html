@@ -7,14 +7,14 @@ layout: default
 
 
 
-<h2> Ryan vs Ryan: Liquid Table Demo </h2>
+<h2> Organic Vs In-Organic: Liquid Table Demo </h2>
 
-<table id="ryan-v-ryan">
+<table id="Organic Vs In-Organic">
 
 <thead>
   <tr>
-    <th>  <h3>  Ryan Reynolds  </h3>  </th>
-    <th>  <h3>  Ryan Gosling  </h3>  </th>
+    <th>  <h3>  Organic  </h3>  </th>
+    <th>  <h3>  In-Orgnaic  </h3>  </th>
   </tr>
 </thead>
 
@@ -29,7 +29,7 @@ layout: default
     <h4>  Strengths  </h4>
     <ul>
       
-      {% for item in page.reynolds.strengths %}
+      {% for item in page.organic.strengths %}
          <li>{{ item }}</li>
       {% endfor %}
       
@@ -40,7 +40,7 @@ layout: default
     <h4>  Weaknessess  </h4>
     <ul>
       
-      {% for item in page.reynolds.weaknesses %}
+      {% for item in page.organic.weaknesses %}
          <li>{{ item }}</li>
       {% endfor %}
       
@@ -56,7 +56,7 @@ layout: default
     <h4>  Strengths  </h4>
     <ul>
       
-      {% for item in page.gosling.strengths %}
+      {% for item in page.inorganic.strengths %}
         <li>{{ item }}</li>
       {% endfor %}
       
@@ -67,7 +67,7 @@ layout: default
     <h4>  Weaknessess  </h4>
     <ul>
       
-      {% for item in page.gosling.weaknesses %}
+      {% for item in page.inorganic.weaknesses %}
          <li>{{ item }}</li>
       {% endfor %}
       
@@ -182,25 +182,25 @@ layout: default
 
         ---
         layout: liquid-table
-        title: 'amiright?'
+        title: 'Why is it important?'
         reynolds:
           strengths:
-          - good father
-          - funny
-          - dated alanis morissette
+          - clean
+          - good for health
+          - natural
           weaknesses: 
-          - singing
-          - green lantern movie
-          - tennis backhand 
+          - pricy
+          - too many fakes
+          - short shelf life 
         gosling:
           strengths: 
-          - builds houses
-          - is a real boy
-          - never dated alanis morissette
+          - cheap
+          - lots of available varities
+          - appealing
           weaknesses: 
-          - micky mouse club
-          - cries a lot
-          - not ryan reynolds
+          - harmful 
+          - chemicals
+          - parabens
         ---
 
        ###
@@ -214,14 +214,14 @@ layout: default
        ###  &lt;li> list item 
        ###
 
-        &lt;h2> Ryan vs Ryan &lt;/h2>
+        &lt;h2> Organic Vs In-Organic &lt;/h2>
 
-        &lt;table id="ryan-v-ryan">
+        &lt;table id="Organic Vs In-Organic">
 
         &lt;thead>
           &lt;tr>
-            &lt;th>  &lt;h3>  Ryan Reynolds  &lt;/h3>  &lt;/th>
-            &lt;th>  &lt;h3>  Ryan Gosling  &lt;/h3>  &lt;/th>
+            &lt;th>  &lt;h3>  Organic  &lt;/h3>  &lt;/th>
+            &lt;th>  &lt;h3>  In-Organic  &lt;/h3>  &lt;/th>
           &lt;/tr>
         &lt;/thead>
 
