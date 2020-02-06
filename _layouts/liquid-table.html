@@ -7,14 +7,14 @@ layout: default
 
 
 
-<h2> Organic Vs In-Organic: Liquid Table Demo </h2>
+<h2> Organic Vs Inorganic: Liquid Table Demo </h2>
 
-<table id="Organic Vs In-Organic">
+<table id="Organic Vs Inorganic">
 
 <thead>
   <tr>
     <th>  <h3>  Organic  </h3>  </th>
-    <th>  <h3>  In-Organic  </h3>  </th>
+    <th>  <h3>  Inorganic  </h3>  </th>
   </tr>
 </thead>
 
@@ -56,7 +56,7 @@ layout: default
     <h4>  Strengths  </h4>
     <ul>
       
-      {% for item in page.In-Organic.strengths %}
+      {% for item in page.Inorganic.strengths %}
         <li>{{ item }}</li>
       {% endfor %}
       
@@ -67,7 +67,7 @@ layout: default
     <h4>  Weaknessess  </h4>
     <ul>
       
-      {% for item in page.In-Organic.weaknesses %}
+      {% for item in page.Inorganic.weaknesses %}
          <li>{{ item }}</li>
       {% endfor %}
       
@@ -184,20 +184,20 @@ layout: default
         layout: liquid-table
         title: 'Why is it important?'
         Organic:
-          strengths:
+          Strengths:
           - clean
           - good for health
           - natural
-          weaknesses: 
+          Weaknesses: 
           - pricy
           - too many fakes
           - short shelf life 
-        In-Organic:
-          strengths: 
+        Inorganic:
+          Strengths: 
           - cheap
           - lots of available varities
           - appealing
-          weaknesses: 
+          Weaknesses: 
           - harmful 
           - chemicals
           - parabens
@@ -214,14 +214,14 @@ layout: default
        ###  &lt;li> list item 
        ###
 
-        &lt;h2> Organic Vs In-Organic &lt;/h2>
+        &lt;h2> Organic Vs Inorganic &lt;/h2>
 
-        &lt;table id="Organic Vs In-Organic">
+        &lt;table id="Organic Vs Inorganic">
 
         &lt;thead>
           &lt;tr>
             &lt;th>  &lt;h3>  Organic  &lt;/h3>  &lt;/th>
-            &lt;th>  &lt;h3>  In-Organic  &lt;/h3>  &lt;/th>
+            &lt;th>  &lt;h3>  Inorganic  &lt;/h3>  &lt;/th>
           &lt;/tr>
         &lt;/thead>
 
@@ -233,12 +233,12 @@ layout: default
 
               ###  LIQUID LOOPS WITH YAML DATA
               ###  Organic:
-              ###    strengths:
+              ###    Strengths:
               ###    - clean
               ###    - good for health
               ###    - natural
 
-              &lbrace;% for item in page.Organic.strengths %}
+              &lbrace;% for item in page.Organic.Strengths %}
                  &lt;li>  &lbrace;&lbrace; item }}  &lt;/li>
               &lbrace;% endfor %}
 
@@ -252,7 +252,7 @@ layout: default
             &lt;h4>  Weaknessess  &lt;/h4>
             &lt;ul>
 
-              &lbrace;% for item in page.Organic.weaknesses %}
+              &lbrace;% for item in page.organic.Weaknesses %}
                  &lt;li>  &lbrace;&lbrace; item }}  &lt;/li>
               &lbrace;% endfor %}
 
@@ -262,7 +262,7 @@ layout: default
             &lt;h4>  Strengths  &lt;/h4>
             &lt;ul>
 
-              &lbrace;% for item in page.In-Organic.strengths %}
+              &lbrace;% for item in page.Inorganic.Strengths %}
                 &lt;li>  &lbrace;&lbrace; item }}  &lt;/li>
               &lbrace;% endfor %}
 
@@ -271,7 +271,7 @@ layout: default
             &lt;h4>  Weaknessess  &lt;/h4>
             &lt;ul>
 
-              &lbrace;% for item in page.In-Organic.weaknesses %}
+              &lbrace;% for item in page.Inorganic.Weaknesses %}
                  &lt;li>  &lbrace;&lbrace; item }}  &lt;/li>
               &lbrace;% endfor %}
 
