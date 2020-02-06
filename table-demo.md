@@ -1,24 +1,24 @@
 ---
 layout: liquid-table
-title: 'amiright?'
-reynolds:
+title: 'Why is it important?'
+organic:
   strengths:
-  - good father
-  - funny
-  - dated alanis morissette
+  - clean
+  - healthy
+  - natural
   weaknesses: 
-  - singing
-  - green lantern movie
-  - tennis backhand 
-gosling:
+  - pricey
+  - short shelf life
+  - lots of fake 
+inorganic:
   strengths: 
-  - builds houses
-  - is a real boy
-  - never dated alanis morissette
+  - cheap
+  - lots of choices
+  - appleaing
   weaknesses: 
-  - micky mouse club
-  - cries a lot
-  - not ryan reynolds
+  - unhealthy
+  - parabens
+  - chemicals
 ---
 
 
