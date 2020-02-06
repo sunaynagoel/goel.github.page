@@ -71,6 +71,7 @@ social-network-links:
   rss: true
   email: "care@maebody.com"
   facebook: amebody
+  twitter: ""
  # pinterest: amebody
 #  reddit: yourname
 #  linkedin: daattali
@@ -89,6 +90,7 @@ social-network-links:
 share-links-active:
   
   facebook: true
+  twitter: true
 #  pinterest: true
 
 # How to display the link to the website in the footer
