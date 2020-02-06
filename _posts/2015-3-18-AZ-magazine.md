@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Arizona Health and Living Magazine
+bigimg: img/Paraben free website.jpg
 subtitle: Product, tech and Bookbuzz
 ---
 
