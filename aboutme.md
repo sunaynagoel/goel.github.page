@@ -8,5 +8,5 @@ subtitle: Experience an organic lifestyle
 
 ### history
 
-âme Body Care was started in 2010 as an effort to eliminate chemical and dye from our life. Skin is the largest organ of our body. Everything we put on our skin finds a way in our blood stream. While we are making lifestyle changes with organic and natural food, it make sense to have access to clean skin care products.  We started our operation with Body Scrubs and Bath Crystals. Now we are making body butter, lip balms, body oils and soaps as well. Please [contact us](https://www.facebook.com/amebody/) if you have any questions.
+âme Body Care was started in 2013 as an effort to eliminate chemical and dye from our life. Skin is the largest organ of our body. Everything we put on our skin finds a way in our blood stream. While we are making lifestyle changes with organic and natural food, it make sense to have access to clean skin care products.  We started our operation with Body Scrubs and Bath Crystals. Now we are making body butter, lip balms, body oils and soaps as well. Please [contact us](https://www.facebook.com/amebody/) if you have any questions.
 
