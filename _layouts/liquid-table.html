@@ -29,7 +29,7 @@ layout: default
     <h4>  Strengths  </h4>
     <ul>
       
-      {% for item in page.organic.strengths %}
+      {% for item in page.Organic.strengths %}
          <li>{{ item }}</li>
       {% endfor %}
       
@@ -40,7 +40,7 @@ layout: default
     <h4>  Weaknessess  </h4>
     <ul>
       
-      {% for item in page.organic.weaknesses %}
+      {% for item in page.Organic.weaknesses %}
          <li>{{ item }}</li>
       {% endfor %}
       
@@ -56,7 +56,7 @@ layout: default
     <h4>  Strengths  </h4>
     <ul>
       
-      {% for item in page.inorganic.strengths %}
+      {% for item in page.In-Organic.strengths %}
         <li>{{ item }}</li>
       {% endfor %}
       
@@ -67,7 +67,7 @@ layout: default
     <h4>  Weaknessess  </h4>
     <ul>
       
-      {% for item in page.inorganic.weaknesses %}
+      {% for item in page.In-Organic.weaknesses %}
          <li>{{ item }}</li>
       {% endfor %}
       
@@ -232,13 +232,13 @@ layout: default
             &lt;ul>
 
               ###  LIQUID LOOPS WITH YAML DATA
-              ###  organic:
+              ###  Organic:
               ###    strengths:
               ###    - clean
               ###    - good for health
               ###    - natural
 
-              &lbrace;% for item in page.organic.strengths %}
+              &lbrace;% for item in page.Organic.strengths %}
                  &lt;li>  &lbrace;&lbrace; item }}  &lt;/li>
               &lbrace;% endfor %}
 
@@ -252,7 +252,7 @@ layout: default
             &lt;h4>  Weaknessess  &lt;/h4>
             &lt;ul>
 
-              &lbrace;% for item in page.organic.weaknesses %}
+              &lbrace;% for item in page.Organic.weaknesses %}
                  &lt;li>  &lbrace;&lbrace; item }}  &lt;/li>
               &lbrace;% endfor %}
 
@@ -262,7 +262,7 @@ layout: default
             &lt;h4>  Strengths  &lt;/h4>
             &lt;ul>
 
-              &lbrace;% for item in page.inorganic.strengths %}
+              &lbrace;% for item in page.In-Organic.strengths %}
                 &lt;li>  &lbrace;&lbrace; item }}  &lt;/li>
               &lbrace;% endfor %}
 
@@ -271,7 +271,7 @@ layout: default
             &lt;h4>  Weaknessess  &lt;/h4>
             &lt;ul>
 
-              &lbrace;% for item in page.inorganic.weaknesses %}
+              &lbrace;% for item in page.In-Organic.weaknesses %}
                  &lt;li>  &lbrace;&lbrace; item }}  &lt;/li>
               &lbrace;% endfor %}
 
