@@ -28,32 +28,12 @@ Here is a 40-second video showing how to get started, with the specific steps be
 Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.
  
  </div>
- <style>
-
-.gs-section-01 h3 { 
-     color: red }
-
-.gs-section-01 p {
-     font-size: 30px;
-}
-
-</style>
-
+ 
 ### 2. Rename the repository to `yourusername.github.io`
 
 This will create a GitHub User page ready with the **Beautiful Jekyll** template that will be available at http://yourusername.github.io (sometimes it takes a few minutes).
 
 </div>
-<style>
-
-.gs-section-02 h3 { 
-     color: blue }
-
-.gs-section-01 p {
-     font-size: 40 px;
-}
-
-</style>
 
 
 ### 3. Customize settings
@@ -81,3 +61,26 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 <div class="get-started-wrap">
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div>
+
+<style>
+
+.gs-section-01 h3 { 
+     color: red }
+
+.gs-section-01 p {
+     font-size: 30px;
+}
+
+</style>
+
+<style>
+
+.gs-section-02 h3 { 
+     color: blue }
+
+.gs-section-01 p {
+     font-size: 40 px;
+}
+
+</style>
+
