@@ -24,7 +24,7 @@ gosling:
 
 
 
-![]({{site.url}}img/Fotolia_41660852_M.jpg)  
+![](img/Fotolia_41660852_M.jpg)  
 
 
 ## Lorem Ipsum
