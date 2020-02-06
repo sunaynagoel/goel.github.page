@@ -33,7 +33,7 @@ Just like you nourish your body with organic food, your skin deserves care with 
 
 <br>
 
-</div>
+
 ---
      
 <br>
