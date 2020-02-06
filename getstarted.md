@@ -81,9 +81,16 @@ You can now visit your shiny new website, which will be seeded with several samp
 
 <div class="gs-section-03" markdown="1">
 
+See how easy that is? I wasn't lying - it really can be done in two minutes.
+<br>
+
+</div>
 ---
 
-See how easy that is? I wasn't lying - it really can be done in two minutes.
+<br>
+
+<div class="gs-section-04" markdown="1">
+
 
 <div class="get-started-wrap">
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!
