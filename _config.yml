@@ -24,8 +24,8 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Getting Started: "getstarted"
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Check us out on pinterest: "https://www.pinterest.com/amebody/"
+    - Amazon store: "http://www.markdowntutorial.com/"
   Author's home: "https://sunaynagoel.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
