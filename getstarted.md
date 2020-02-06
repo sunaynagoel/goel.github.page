@@ -31,17 +31,11 @@ Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking 
   <style>
 
 .gs-section-01 h3 { 
-     color: red }
+     color: darkred }
 
-.pretty-text h3 {
-  color: darkred;
-  font-size: 40px;
-}
 .gs-section-01 p {
      font-size: 30px;
      }
-
-
 </style>
 
  </div>
