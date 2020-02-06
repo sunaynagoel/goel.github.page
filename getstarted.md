@@ -94,6 +94,9 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 .gs-section-main {
      background-color: #ffeead;
 }
+.gs-section-main p{
+     color:  #96ceb4;
+}
 
 .gs-section-00 h2 {
   color: #588c7e;
@@ -130,7 +133,7 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
  font-family: "Times New Roman", Times, serif;
   fontsize: 20 px;
  }
- .gs-section-04 p{
+ .gs-section-03 p{
     fontsize: 35 px;
     font-style: oblique;
     color: #f2e394;
@@ -140,10 +143,11 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
   color: #ffcc5c;
   font-family: "Times New Roman", Times, serif;
   fontsize: 35 px;
+  color: #ffcc5c;
  }
  
  
- .gs-section-03 p{
+ .gs-section-04 p{
     fontsize: 25 px;
     font-family: normal;
     color: #f2e394;
