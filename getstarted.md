@@ -27,8 +27,25 @@ Here is a 40-second video showing how to get started, with the specific steps be
 
 Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.
  
+ <div>
+  <style>
+
+.gs-section-01 h3 { 
+     color: red }
+
+.pretty-text h3 {
+  color: darkred;
+  font-size: 40px;
+}
+.gs-section-01 p {
+     font-size: 30px;
+     }
+
+
+</style>
+
  </div>
- <br>
+ 
  
 ### 2. Rename the repository to `yourusername.github.io`
 
@@ -52,19 +69,4 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div>
 
-<style>
-
-.gs-section-01 h3 { 
-     color: red }
-
-.pretty-text h3 {
-  color: darkred;
-  font-size: 40px;
-}
-.gs-section-01 p {
-     font-size: 30px;
-     }
-
-
-</style>
 
