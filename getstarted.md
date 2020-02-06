@@ -29,7 +29,9 @@ Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking 
  
  <div>
   <style>
-
+.pretty-text a {
+  color: darkred;
+}
 .gs-section-01 h1 { 
      color: darkred }
 
