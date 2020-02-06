@@ -1,7 +1,7 @@
 ---
 layout: liquid.table
 title: 'amiright?'
-reynolds:
+Organic:
   strengths:
   - good father
   - funny
@@ -10,7 +10,7 @@ reynolds:
   - singing
   - green lantern movie
   - tennis backhand 
-gosling:
+In-Organic:
   strengths: 
   - builds houses
   - is a real boy
@@ -24,7 +24,7 @@ gosling:
 
 
 
-![](img/Fotolia_41660852_M.jpg)  
+![](img/campaign main picture.jpg)  
 
 
 ## Lorem Ipsum
