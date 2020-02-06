@@ -13,7 +13,7 @@ To learn how you can use **Beautiful Jekyll** to create your website in minutes,
 <div class="get-started-wrap">
   <a class="btn btn-success btn-lg get-started-btn" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div>
-<br/>
+<br>
 
 ## Overview of steps required
 
@@ -28,6 +28,7 @@ Here is a 40-second video showing how to get started, with the specific steps be
 Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.
  
  </div>
+ <br>
  
 ### 2. Rename the repository to `yourusername.github.io`
 
