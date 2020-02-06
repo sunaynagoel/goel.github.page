@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: Experience an organic lifestyle
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+âme Body Care manufactures the *_purest skincare products_* that are made of natural, food grade and organic ingredients free of chemicals, preservatives and dyes which nourish, hydrate, cleanse and rejuvenate skin. Great gift option for Weddings, Corporate Events and many other occasions. Portion of sales are donated to March of Dimes. Most of our product has [EWG rating](https://www.ewg.org/skindeep/browse/brands/6731) of 1. Products are made in the U.S.A.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### history
 
-What else do you need?
+âme Body Care was started in 2010 as an effort to eliminate chemical and dye from our life. Skin is the largest organ of our body. Everything we put on our skin finds a way in our blood stream. While we are making lifestyle changes with organic and natural food, it make sense to have access to clean skin care products.  We started our operation with Body Scrubs and Bath Crystals. Now we are making body butter, lip balms, body oils and soaps as well. Please contact us if you have any questions.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
