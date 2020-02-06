@@ -27,6 +27,17 @@ Here is a 40-second video showing how to get started, with the specific steps be
 
 Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking the Fork button on the top right corner in GitHub.
 
+</div>
+<style>
+
+.pretty-text {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-align: justify;
+}
+
 ### 2. Rename the repository to `yourusername.github.io`
 
 This will create a GitHub User page ready with the **Beautiful Jekyll** template that will be available at http://yourusername.github.io (sometimes it takes a few minutes).
