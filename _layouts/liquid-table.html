@@ -7,14 +7,14 @@ layout: default
 
 
 
-<h2> Ryan vs Ryan: Liquid Table Demo </h2>
+<h2> organic vs inorganic: Liquid Table Demo </h2>
 
-<table id="ryan-v-ryan">
+<table id="organictable">
 
 <thead>
   <tr>
-    <th>  <h3>  Ryan Reynolds  </h3>  </th>
-    <th>  <h3>  Ryan Gosling  </h3>  </th>
+    <th>  <h3>  organic  </h3>  </th>
+    <th>  <h3>  inorganic  </h3>  </th>
   </tr>
 </thead>
 
@@ -29,7 +29,7 @@ layout: default
     <h4>  Strengths  </h4>
     <ul>
       
-      {% for item in page.reynolds.strengths %}
+      {% for item in page.organic.strengths %}
          <li>{{ item }}</li>
       {% endfor %}
       
@@ -40,7 +40,7 @@ layout: default
     <h4>  Weaknessess  </h4>
     <ul>
       
-      {% for item in page.reynolds.weaknesses %}
+      {% for item in page.organic.weaknesses %}
          <li>{{ item }}</li>
       {% endfor %}
       
@@ -56,7 +56,7 @@ layout: default
     <h4>  Strengths  </h4>
     <ul>
       
-      {% for item in page.gosling.strengths %}
+      {% for item in page.inorganic.strengths %}
         <li>{{ item }}</li>
       {% endfor %}
       
@@ -67,7 +67,7 @@ layout: default
     <h4>  Weaknessess  </h4>
     <ul>
       
-      {% for item in page.gosling.weaknesses %}
+      {% for item in page.inorganic.weaknesses %}
          <li>{{ item }}</li>
       {% endfor %}
       
@@ -182,25 +182,25 @@ layout: default
 
         ---
         layout: liquid-table
-        title: 'amiright?'
-        reynolds:
-          strengths:
-          - good father
-          - funny
-          - dated alanis morissette
-          weaknesses: 
-          - singing
-          - green lantern movie
-          - tennis backhand 
-        gosling:
-          strengths: 
-          - builds houses
-          - is a real boy
-          - never dated alanis morissette
-          weaknesses: 
-          - micky mouse club
-          - cries a lot
-          - not ryan reynolds
+        title: 'Why is it important?'
+organic:
+  strengths:
+  - clean
+  - healthy
+  - natural
+  weaknesses: 
+  - pricey
+  - short shelf life
+  - lots of fake 
+inorganic:
+  strengths: 
+  - cheap
+  - lots of choices
+  - appleaing
+  weaknesses: 
+  - unhealthy
+  - parabens
+  - chemicals
         ---
 
        ###
@@ -214,14 +214,14 @@ layout: default
        ###  &lt;li> list item 
        ###
 
-        &lt;h2> Ryan vs Ryan &lt;/h2>
+        &lt;h2> organic vs inorganic &lt;/h2>
 
-        &lt;table id="ryan-v-ryan">
+        &lt;table id="organictable">
 
         &lt;thead>
           &lt;tr>
-            &lt;th>  &lt;h3>  Ryan Reynolds  &lt;/h3>  &lt;/th>
-            &lt;th>  &lt;h3>  Ryan Gosling  &lt;/h3>  &lt;/th>
+            &lt;th>  &lt;h3>  organic  &lt;/h3>  &lt;/th>
+            &lt;th>  &lt;h3>  inorganic  &lt;/h3>  &lt;/th>
           &lt;/tr>
         &lt;/thead>
 
@@ -232,27 +232,27 @@ layout: default
             &lt;ul>
 
               ###  LIQUID LOOPS WITH YAML DATA
-              ###  reynolds:
+              ###  organic:
               ###    strengths:
-              ###    - good father
-              ###    - funny
-              ###    - dated alanis morissette
+              ###    - clean
+              ###    - healthy
+              ###    - natural
 
-              &lbrace;% for item in page.reynolds.strengths %}
+              &lbrace;% for item in page.organic.strengths %}
                  &lt;li>  &lbrace;&lbrace; item }}  &lt;/li>
               &lbrace;% endfor %}
 
               ###    LIQUID LOOP CREATES HTML CODES:
-              ###    &lt;li> good father &lt;/li>
-              ###    &lt;li> funny &lt;/li>
-              ###    &lt;li> dated alanis morissette &lt;/li>        
+              ###    &lt;li> clean &lt;/li>
+              ###    &lt;li> healthy &lt;/li>
+              ###    &lt;li> natural &lt;/li>        
 
             &lt;/ul>
             &lt;br>
             &lt;h4>  Weaknessess  &lt;/h4>
             &lt;ul>
 
-              &lbrace;% for item in page.reynolds.weaknesses %}
+              &lbrace;% for item in page.organic.weaknesses %}
                  &lt;li>  &lbrace;&lbrace; item }}  &lt;/li>
               &lbrace;% endfor %}
 
@@ -262,7 +262,7 @@ layout: default
             &lt;h4>  Strengths  &lt;/h4>
             &lt;ul>
 
-              &lbrace;% for item in page.gosling.strengths %}
+              &lbrace;% for item in page.inorganic.strengths %}
                 &lt;li>  &lbrace;&lbrace; item }}  &lt;/li>
               &lbrace;% endfor %}
 
@@ -271,7 +271,7 @@ layout: default
             &lt;h4>  Weaknessess  &lt;/h4>
             &lt;ul>
 
-              &lbrace;% for item in page.gosling.weaknesses %}
+              &lbrace;% for item in page.inorganic.weaknesses %}
                  &lt;li>  &lbrace;&lbrace; item }}  &lt;/li>
               &lbrace;% endfor %}
 
