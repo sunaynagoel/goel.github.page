@@ -232,27 +232,27 @@ layout: default
             &lt;ul>
 
               ###  LIQUID LOOPS WITH YAML DATA
-              ###  reynolds:
+              ###  organic:
               ###    strengths:
-              ###    - good father
-              ###    - funny
-              ###    - dated alanis morissette
+              ###    - clean
+              ###    - good for health
+              ###    - natural
 
-              &lbrace;% for item in page.reynolds.strengths %}
+              &lbrace;% for item in page.organic.strengths %}
                  &lt;li>  &lbrace;&lbrace; item }}  &lt;/li>
               &lbrace;% endfor %}
 
               ###    LIQUID LOOP CREATES HTML CODES:
-              ###    &lt;li> good father &lt;/li>
-              ###    &lt;li> funny &lt;/li>
-              ###    &lt;li> dated alanis morissette &lt;/li>        
+              ###    &lt;li> clean &lt;/li>
+              ###    &lt;li> good for health &lt;/li>
+              ###    &lt;li> natural &lt;/li>        
 
             &lt;/ul>
             &lt;br>
             &lt;h4>  Weaknessess  &lt;/h4>
             &lt;ul>
 
-              &lbrace;% for item in page.reynolds.weaknesses %}
+              &lbrace;% for item in page.organic.weaknesses %}
                  &lt;li>  &lbrace;&lbrace; item }}  &lt;/li>
               &lbrace;% endfor %}
 
@@ -262,7 +262,7 @@ layout: default
             &lt;h4>  Strengths  &lt;/h4>
             &lt;ul>
 
-              &lbrace;% for item in page.gosling.strengths %}
+              &lbrace;% for item in page.inorganic.strengths %}
                 &lt;li>  &lbrace;&lbrace; item }}  &lt;/li>
               &lbrace;% endfor %}
 
@@ -271,7 +271,7 @@ layout: default
             &lt;h4>  Weaknessess  &lt;/h4>
             &lt;ul>
 
-              &lbrace;% for item in page.gosling.weaknesses %}
+              &lbrace;% for item in page.inorganic.weaknesses %}
                  &lt;li>  &lbrace;&lbrace; item }}  &lt;/li>
               &lbrace;% endfor %}
 
