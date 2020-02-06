@@ -33,7 +33,7 @@ Fork the [repository](https://github.com/daattali/beautiful-jekyll) by clicking 
 
 This will create a GitHub User page ready with the **Beautiful Jekyll** template that will be available at http://yourusername.github.io (sometimes it takes a few minutes).
 
-</div>
+
 
 
 ### 3. Customize settings
@@ -55,21 +55,16 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 
 .gs-section-01 h3 { 
      color: red }
+ .pretty-text h1 {
+  color: darkred;
+  font-size: 40px;
+}
+    
 
 .gs-section-01 p {
      font-size: 30px;
-}
+     }
 
-
-
-
-
-.gs-section-02 h3 { 
-     color: blue }
-
-.gs-section-01 p {
-     font-size: 40 px;
-}
 
 </style>
 
