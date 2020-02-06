@@ -2,20 +2,20 @@
 layout: liquid-table
         title: 'Why is it important?'
         Organic:
-          strengths:
+          Strengths:
           - clean
           - good for health
           - natural
-          weaknesses: 
+          Weaknesses: 
           - pricy
           - too many fakes
           - short shelf life 
-        In-Organic:
-          strengths: 
+        Inorganic:
+          Strengths: 
           - cheap
           - lots of available varities
           - appealing
-          weaknesses: 
+          Weaknesses: 
           - harmful 
           - chemicals
           - parabens
