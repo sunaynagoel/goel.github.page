@@ -1,27 +1,26 @@
 ---
-layout: liquid.table
-title: 'amiright?'
-Organic:
-  strengths:
-  - good father
-  - funny
-  - dated alanis morissette
-  weaknesses: 
-  - singing
-  - green lantern movie
-  - tennis backhand 
-In-Organic:
-  strengths: 
-  - builds houses
-  - is a real boy
-  - never dated alanis morissette
-  weaknesses: 
-  - micky mouse club
-  - cries a lot
-  - not ryan reynolds
+layout: liquid-table
+        title: 'Why is it important?'
+        Organic:
+          strengths:
+          - clean
+          - good for health
+          - natural
+          weaknesses: 
+          - pricy
+          - too many fakes
+          - short shelf life 
+        In-Organic:
+          strengths: 
+          - cheap
+          - lots of available varities
+          - appealing
+          weaknesses: 
+          - harmful 
+          - chemicals
+          - parabens
+
 ---
-
-
 
 
 ![](img/campaign main picture.jpg)  
