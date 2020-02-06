@@ -146,18 +146,12 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
     color: #f2e394;
     }
   
-  .gs-section-04 h3 {
-  color: #ffcc5c;
-  font-family: "Times New Roman", Times, serif;
-  fontsize: 35 px;
-  color: #ffcc5c;
- }
- 
  
  .gs-section-04 p{
     fontsize: 25 px;
     font-family: normal;
-    color: #f2e394;
+    font-weight:italic;
+    color:#588c7e;
     }
     
   .btn btn-success btn-lg get-started-btn {
