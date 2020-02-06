@@ -1,5 +1,5 @@
 ---
-layout: liquid.table
+layout: liquid-table
         title: 'Why is it important?'
         Organic:
           strengths:
