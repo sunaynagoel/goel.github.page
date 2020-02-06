@@ -1,10 +1,11 @@
 # --- General options --- #
 
 # Name of website
-title: CPP 527- LAB 03
+title: ame Body Care
 
 # Short description of your site
-description: This website is created as a LAB for Datascience II
+description: Chemical free and Dye free organic Skin Care Product. 
+             Experience an organic lifestyle !!
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
