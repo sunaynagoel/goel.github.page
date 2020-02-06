@@ -55,12 +55,11 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 
 .gs-section-01 h3 { 
      color: red }
- .pretty-text h1 {
+
+.pretty-text h3 {
   color: darkred;
   font-size: 40px;
 }
-    
-
 .gs-section-01 p {
      font-size: 30px;
      }
