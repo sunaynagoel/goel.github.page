@@ -4,7 +4,7 @@ title: About
 subtitle: Experience an organic lifestyle
 ---
 
-âme Body Care manufactures the *_purest skincare products_* that are made of natural, food grade and organic ingredients free of chemicals, preservatives and dyes which nourish, hydrate, cleanse and rejuvenate skin. Great gift option for Weddings, Corporate Events and many other occasions. Portion of sales are donated to March of Dimes. Most of our product has [EWG rating](https://www.ewg.org/skindeep/browse/brands/6731) of 1. Products are made in the U.S.A.
+âme Body Care manufactures the *purest skincare products* that are made of natural, food grade and organic ingredients free of chemicals, preservatives and dyes which nourish, hydrate, cleanse and rejuvenate skin. Great gift option for Weddings, Corporate Events and many other occasions. Portion of sales are donated to March of Dimes. Most of our product has [EWG rating](https://www.ewg.org/skindeep/browse/brands/6731) of 1. Products are made in the U.S.A.
 
 ### history
 
