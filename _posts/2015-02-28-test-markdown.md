@@ -2,6 +2,7 @@
 layout: post
 title: Who said nothing in Life is free
 subtitle: Product Review and Giveaway
+bigimg: img/IMG_3245.JPG
 
 comments: true
 ---
